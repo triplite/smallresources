@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CMapTypes>
+  <extensions/>
+  <archetypes>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="32"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.07768825" y="-0.03843416" z="-0.10890120"/>
+      <bbMax x="0.07806713" y="0.03833046" z="0.10858550"/>
+      <bsCentre x="0.00018944" y="-0.00005185" z="-0.00015788"/>
+      <bsRadius value="0.13915190"/>
+      <hdTextureDist value="100.00000000"/>
+      <name>wasabi_7up_1</name>
+      <textureDictionary>wasabi_7up_1</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary>wasabi_7up_1</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>wasabi_7up_1</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="32"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.07544915" y="-0.03206587" z="-0.11236220"/>
+      <bbMax x="0.07561552" y="0.03231552" z="0.11211810"/>
+      <bsCentre x="0.00008319" y="0.00012483" z="-0.00012205"/>
+      <bsRadius value="0.13906550"/>
+      <hdTextureDist value="100.00000000"/>
+      <name>wasabi_7up_2</name>
+      <textureDictionary>wasabi_7up_2</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary>7up_2</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>wasabi_7up_2</assetName>
+      <extensions/>
+    </Item>
+      <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="32"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.07544915" y="-0.03206587" z="-0.11236220"/>
+      <bbMax x="0.07561552" y="0.03231552" z="0.11211810"/>
+      <bsCentre x="0.00008319" y="0.00012483" z="-0.00012205"/>
+      <bsRadius value="0.13906550"/>
+      <hdTextureDist value="100.00000000"/>
+      <name>wasabi_big_red_1</name>
+      <textureDictionary>wasabi_big_red_1</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary>big_red_1</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>wasabi_big_red_1</assetName>
+      <extensions/>
+    </Item>
+      <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="32"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.07544915" y="-0.03206587" z="-0.11236220"/>
+      <bbMax x="0.07561552" y="0.03231552" z="0.11211810"/>
+      <bsCentre x="0.00008319" y="0.00012483" z="-0.00012205"/>
+      <bsRadius value="0.13906550"/>
+      <hdTextureDist value="100.00000000"/>
+      <name>wasabi_coke_1</name>
+      <textureDictionary>coke_1</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary>wasabi_coke_1</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>wasabi_coke_1</assetName>
+      <extensions/>
+    </Item>
+      <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="32"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.07544915" y="-0.03206587" z="-0.11236220"/>
+      <bbMax x="0.07561552" y="0.03231552" z="0.11211810"/>
+      <bsCentre x="0.00008319" y="0.00012483" z="-0.00012205"/>
+      <bsRadius value="0.13906550"/>
+      <hdTextureDist value="100.00000000"/>
+      <name>wasabi_fanta_lemon_1</name>
+      <textureDictionary>wasabi_fanta_lemon_1</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary>wasabi_fanta_lemon_1</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>wasabi_fanta_lemon_1</assetName>
+      <extensions/>
+    </Item>
+      <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="32"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.07544915" y="-0.03206587" z="-0.11236220"/>
+      <bbMax x="0.07561552" y="0.03231552" z="0.11211810"/>
+      <bsCentre x="0.00008319" y="0.00012483" z="-0.00012205"/>
+      <bsRadius value="0.13906550"/>
+      <hdTextureDist value="100.00000000"/>
+      <name>wasabi_fanta_orange_1</name>
+      <textureDictionary>wasabi_fanta_orange_1</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary>wasabi_fanta_orange_1</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>wasabi_fanta_orange_1</assetName>
+      <extensions/>
+    </Item>
+      <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="32"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.07544915" y="-0.03206587" z="-0.11236220"/>
+      <bbMax x="0.07561552" y="0.03231552" z="0.11211810"/>
+      <bsCentre x="0.00008319" y="0.00012483" z="-0.00012205"/>
+      <bsRadius value="0.13906550"/>
+      <hdTextureDist value="100.00000000"/>
+      <name>wasabi_mntdew_1</name>
+      <textureDictionary>wasabi_mntdew_1</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary>wasabi_mntdew_1</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>wasabi_mntdew_1</assetName>
+      <extensions/>
+    </Item>
+      <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="32"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.07544915" y="-0.03206587" z="-0.11236220"/>
+      <bbMax x="0.07561552" y="0.03231552" z="0.11211810"/>
+      <bsCentre x="0.00008319" y="0.00012483" z="-0.00012205"/>
+      <bsRadius value="0.13906550"/>
+      <hdTextureDist value="100.00000000"/>
+      <name>wasabi_mntdew_2</name>
+      <textureDictionary>wasabi_mntdew_2</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary>wasabi_mntdew_2</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>wasabi_mntdew_2</assetName>
+      <extensions/>
+    </Item>
+      <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="32"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.07544915" y="-0.03206587" z="-0.11236220"/>
+      <bbMax x="0.07561552" y="0.03231552" z="0.11211810"/>
+      <bsCentre x="0.00008319" y="0.00012483" z="-0.00012205"/>
+      <bsRadius value="0.13906550"/>
+      <hdTextureDist value="100.00000000"/>
+      <name>wasabi_mntdew_3</name>
+      <textureDictionary>wasabi_mntdew_3</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary>wasabi_mntdew_3</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>mntdew_3</assetName>
+      <extensions/>
+    </Item>
+      <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="32"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.07544915" y="-0.03206587" z="-0.11236220"/>
+      <bbMax x="0.07561552" y="0.03231552" z="0.11211810"/>
+      <bsCentre x="0.00008319" y="0.00012483" z="-0.00012205"/>
+      <bsRadius value="0.13906550"/>
+      <hdTextureDist value="100.00000000"/>
+      <name>wasabi_pepsi_1</name>
+      <textureDictionary>pepsi_1</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary>wasabi_pepsi_1</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>wasabi_pepsi_1</assetName>
+      <extensions/>
+    </Item>
+      <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="32"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.07544915" y="-0.03206587" z="-0.11236220"/>
+      <bbMax x="0.07561552" y="0.03231552" z="0.11211810"/>
+      <bsCentre x="0.00008319" y="0.00012483" z="-0.00012205"/>
+      <bsRadius value="0.13906550"/>
+      <hdTextureDist value="100.00000000"/>
+      <name>wasabi_pepsi_2</name>
+      <textureDictionary>wasabi_pepsi_2</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary>wasabi_pepsi_2</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>wasabi_pepsi_2</assetName>
+      <extensions/>
+    </Item>
+      <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="32"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.07544915" y="-0.03206587" z="-0.11236220"/>
+      <bbMax x="0.07561552" y="0.03231552" z="0.11211810"/>
+      <bsCentre x="0.00008319" y="0.00012483" z="-0.00012205"/>
+      <bsRadius value="0.13906550"/>
+      <hdTextureDist value="100.00000000"/>
+      <name>wasabi_sprite_1</name>
+      <textureDictionary>wasabi_sprite_1</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary>wasabi_sprite_1</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>wasabi_sprite_1</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+    <lodDist value="100.00000000"/>
+    <flags value="32"/>
+    <specialAttribute value="0"/>
+    <bbMin x="-0.07544915" y="-0.03206587" z="-0.11236220"/>
+    <bbMax x="0.07561552" y="0.03231552" z="0.11211810"/>
+    <bsCentre x="0.00008319" y="0.00012483" z="-0.00012205"/>
+    <bsRadius value="0.13906550"/>
+    <hdTextureDist value="100.00000000"/>
+    <name>wasabi_monster_1</name>
+    <textureDictionary>wasabi_monster_1</textureDictionary>
+    <clipDictionary/>
+    <drawableDictionary/>
+    <physicsDictionary>wasabi_monster_1</physicsDictionary>
+    <assetType>ASSET_TYPE_DRAWABLE</assetType>
+    <assetName>wasabi_monster_1</assetName>
+    <extensions/>
+  </Item>
+   </archetypes>
+  <name>0x0AD225D7</name>
+  <dependencies/>
+  <compositeEntityTypes/>
+</CMapTypes>
